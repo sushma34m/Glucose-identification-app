@@ -1,0 +1,10 @@
+{
+  "name": "Rural India Healthcare Screening System",
+  "description": "Full-stack healthcare screening application for early detection of diabetes and hypertension in rural India, empowering ASHA community workers with multilingual offline voice assistants and visual screening dashboards.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
