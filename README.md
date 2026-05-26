@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/287a7efc-a522-4a5d-99d0-02e3a4882c33
+Deployed link : https://healthsync-uof9.onrender.com/
 
 ## Run Locally
 
